@@ -1,2 +1,4 @@
-h1 {font-family: 'Quicksand', Helvetica, sans-serif}
-p {font-family: 'EB Garamond', Garamond, serif}
+h1 {
+	font-size: 2rem;
+	font-family: 'Quicksand', Helvetica, sans-serif;}
+p {font-family: 'EB Garamond', Garamond, serif;}
